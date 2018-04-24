@@ -4,5 +4,6 @@
 
 ```
 [PBRefreshHelper headerRefresh:self.tableView withTarget:self action:@selector(headerRefreshMethod)];
+
 [PBRefreshHelper footerRefresh:self.tableView withTarget:self action:@selector(footerRefreshMethod)];
 ```
